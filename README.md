@@ -2,4 +2,4 @@
 
 
 
-![](https://github.com/Thiago-Batista-da-Silva-Oliveira/Selfie-Portifolio/blob/main/Portifolio2.png)
+![](https://github.com/Thiago-Batista-da-Silva-Oliveira/Selfie-Portifolio/blob/main/Portifolio.png)
